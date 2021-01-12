@@ -6,10 +6,8 @@ K. Sim, J. Yang, W. Lu and X. Gao, "MaD-DLS: Mean and Deviation of Deep and Loca
 
 ## Requirements
 * MatConvNet 1.0-beta25
-  You can download it from https://www.vlfeat.org/matconvnet/
-
+  * You can download it from https://www.vlfeat.org/matconvnet/.
+  * Please refer to https://www.vlfeat.org/matconvnet/install/ on how to install it.
 * pretrained VGG-F model
-  You can download it from https://www.vlfeat.org/matconvnet/pretrained/
+  * You can download it from https://www.vlfeat.org/matconvnet/pretrained/.
 
-## Installation
-* Please refer to https://www.vlfeat.org/matconvnet/install/
